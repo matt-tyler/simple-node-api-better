@@ -7,7 +7,7 @@
   "author": "SAM CLI",
   "license": "Apache-2.0",
   "dependencies": {
-    "aws-sdk": "^2.594.0",
+    "aws-sdk": "^2.814.0",
     "dynamodb-toolbox": "^0.1.0",
     "ulid": "^2.3.0"
   },
